@@ -1,69 +1,69 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
-        body {
-            font-family: "Ubuntu", sans-serif;
-        }
-        h2 {
-            text-align:left;
-            margin-left: 25px;
-        }
-        table, th, td {
-            border: 1px solid darkgray;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 10px 10px 10px 5px;
-        }
-        table {
-            width: 750px;
-            margin-left: 25px;
-        }
-        th {
-            text-decoration: solid;
-            text-align: center;
-        }
-        td {
-            text-align: left;
-        }
-        .name {
-            width: 300px;
-            margin-top: 25px;
-            margin-left: 25px;
-            text-align: center;
-            font-family: "Ubuntu", sans-serif;
-        }
-        p {
-            margin-top: 25px;
-            margin-left: 25px;
-            margin-bottom: 5px;
-        }
-        .sex {
-            margin-left: 25px;
-            margin-right: 10px;
-        }
-        textarea {
-            margin-left: 25px;
-            margin-top: 25px;
-            font-family: "Ubuntu", sans-serif;
-        }
-        select {
-            margin-left: 25px;
-            margin-top: 25px;
-            font-family: "Ubuntu", sans-serif;
-            width: 300px;
-        }
-        .language {
-            margin-left: 25px;
-            margin-right: 10px;
-        }
-        button {
-            margin-top: 25px;
-            margin-left: 25px;
-            width: 300px;
-            font-family: "Ubuntu", sans-serif;
-            background-color: rgb(117, 117, 117);
-            border: none;
-            color: white;
-            font-size: 15px;
-            padding: 10px;
-            text-align: center;
-        }
+body {
+    font-family: "Ubuntu", sans-serif;
+}
+h2 {
+    text-align:left;
+    margin-left: 25px;
+}
+table, th, td {
+    border: 1px solid darkgray;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px 10px 10px 5px;
+}
+table {
+    width: 750px;
+    margin-left: 25px;
+}
+th {
+    text-decoration: solid;
+    text-align: center;
+}
+td {
+    text-align: left;
+}
+.name {
+    width: 300px;
+    margin-top: 25px;
+    margin-left: 25px;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+}
+p {
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+.sex {
+    margin-left: 25px;
+    margin-right: 10px;
+}
+textarea {
+    margin-left: 25px;
+    margin-top: 25px;
+    font-family: "Ubuntu", sans-serif;
+}
+select {
+    margin-left: 25px;
+    margin-top: 25px;
+    font-family: "Ubuntu", sans-serif;
+    width: 300px;
+}
+.language {
+    margin-left: 25px;
+    margin-right: 10px;
+}
+button {
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 300px;
+    font-family: "Ubuntu", sans-serif;
+    background-color: rgb(117, 117, 117);
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+}
